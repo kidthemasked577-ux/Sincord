@@ -22,6 +22,11 @@ This repository contains the Sincord source code, not a ready-made installer.
 
 ### Browser
 
+<a href="https://github.com/kidthemasked577-ux/Sincord/releases/latest/download/extension-chrome.zip"><img alt="Download for Chrome" src="https://img.shields.io/badge/Download-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://github.com/kidthemasked577-ux/Sincord/releases/latest/download/extension-firefox.zip"><img alt="Download for Firefox" src="https://img.shields.io/badge/Download-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
+
+These downloads are available after a release publishes `extension-chrome.zip` and `extension-firefox.zip` as assets. Releases are published manually.
+
 After installing the dependencies, run:
 
 ```powershell
