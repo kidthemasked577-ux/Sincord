@@ -2,6 +2,9 @@
 
 ![Sincord neon S icon](./browser/icon.png)
 
+<a href="https://www.mediafire.com/file/m0dsga9rz77odqh/Sincord+(ver+2.0).zip/file"><img alt="Download for Chrome" src="https://img.shields.io/badge/Download-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.mediafire.com/file/m0dsga9rz77odqh/Sincord+(ver+2.0).zip/file"><img alt="Download for Firefox" src="https://img.shields.io/badge/Download-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
+
 Sincord is a personal Discord client modification with a custom dark-red neon style and all the power of Vencord’s plugin system.
 
 It includes a custom Sincord settings page, a built-in dark-red theme, and support for existing Vencord plugins. Sincord is still in an early development stage, so expect updates, fixes, and new features over time.
@@ -21,11 +24,6 @@ This project remains licensed under GPL-3.0-or-later. Existing copyright and att
 This repository contains the Sincord source code, not a ready-made installer.
 
 ### Browser
-
-<a href="https://www.mediafire.com/file/ntz3yyfdbx3u9hq/Sincord.zip/file"><img alt="Download for Chrome" src="https://img.shields.io/badge/Download-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.mediafire.com/file/ntz3yyfdbx3u9hq/Sincord.zip/file"><img alt="Download for Firefox" src="https://img.shields.io/badge/Download-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
-
-Both buttons download the Sincord ZIP from MediaFire.
 
 After installing the dependencies, run:
 
@@ -63,6 +61,17 @@ Install dependencies with `pnpm install`, then run `pnpm build --dev` for the de
 The Git origin is configured for `https://github.com/kidthemasked577-ux/Sincord`. For source builds, Git updater changes are available after the project is pushed to the `main` branch.
 
 Standalone builds use GitHub Releases. Each release name must end with the full or short current Git commit hash, and it must include the Sincord build assets: `patcher.js`, `preload.js`, `renderer.js`, and `renderer.css`. Publishing releases is a manual GitHub action and is not performed automatically.
+
+## Windows executable
+
+On Windows, build a single launcher with the Sincord icon:
+
+```powershell
+corepack pnpm install
+corepack pnpm buildExe
+```
+
+The result is `dist/Sincord.exe`. Launching it installs Sincord into Discord and then opens Discord.
 
 ## Upstream project
 
