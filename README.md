@@ -2,8 +2,6 @@
 
 ![Sincord neon S icon](./browser/icon.png)
 
-DOWNLOAD ZIP FILE AND EXTRACT BEFORE INSTALLING.
-
 Sincord is a personal Discord client modification with a custom dark-red neon style and all the power of Vencord’s plugin system.
 
 It includes a custom Sincord settings page, a built-in dark-red theme, and support for existing Vencord plugins. Sincord is still in an early development stage, so expect updates, fixes, and new features over time.
