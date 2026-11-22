@@ -2,8 +2,8 @@
 
 ![Sincord neon S icon](./browser/icon.png)
 
-<a href="https://www.mediafire.com/file/xphsr16b5shf3ii/Sincord+(release+3.0).zip/file"><img alt="Download for Chrome" src="https://img.shields.io/badge/Download-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.mediafire.com/file/xphsr16b5shf3ii/Sincord+(release+3.0).zip/file"><img alt="Download for Firefox" src="https://img.shields.io/badge/Download-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
+<a href="https://www.mediafire.com/file/a1ac4lesjv61buh/Sincord+(FIXED+VER+4.0).zip/file"><img alt="Download for Chrome" src="https://img.shields.io/badge/Download-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.mediafire.com/file/a1ac4lesjv61buh/Sincord+(FIXED+VER+4.0).zip/file"><img alt="Download for Firefox" src="https://img.shields.io/badge/Download-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
 <a href="https://github.com/kidthemasked577-ux/Sincord/releases/latest/download/Sincord.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a>
 
 Sincord is a personal Discord client modification with a custom dark-red neon style and all the power of Vencord’s plugin system.
